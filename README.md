@@ -14,7 +14,7 @@ Telegram бот для управления каналом и реферальн
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/chinaki_bot.git
+git clone https://github.com/Milashka2007/chinaki_bot.git
 cd chinaki_bot
 ```
 
